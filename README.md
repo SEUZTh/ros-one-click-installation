@@ -7,3 +7,8 @@ Rapid development of ROS
   ```bash
   ./ros_kinetic_install.sh password
   ```
+## ros melodic
+- Replace password with your password.
+  ```bash
+  ./ros_melodic_install.sh password
+  ```
