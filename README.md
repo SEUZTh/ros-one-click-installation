@@ -12,3 +12,8 @@ Rapid development of ROS
   ```bash
   ./ros_melodic_install.sh password
   ```
+## ros noetic
+- Replace password with your password.
+  ```bash
+  ./ros_noetic_install.sh password
+  ```
